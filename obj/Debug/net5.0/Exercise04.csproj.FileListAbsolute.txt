@@ -1,0 +1,15 @@
+/Users/simon/Development/technobrain/Exercise04/bin/Debug/net5.0/Exercise04.deps.json
+/Users/simon/Development/technobrain/Exercise04/bin/Debug/net5.0/Exercise04.runtimeconfig.json
+/Users/simon/Development/technobrain/Exercise04/bin/Debug/net5.0/Exercise04.runtimeconfig.dev.json
+/Users/simon/Development/technobrain/Exercise04/bin/Debug/net5.0/Exercise04.dll
+/Users/simon/Development/technobrain/Exercise04/bin/Debug/net5.0/ref/Exercise04.dll
+/Users/simon/Development/technobrain/Exercise04/bin/Debug/net5.0/Exercise04.pdb
+/Users/simon/Development/technobrain/Exercise04/obj/Debug/net5.0/Exercise04.csproj.AssemblyReference.cache
+/Users/simon/Development/technobrain/Exercise04/obj/Debug/net5.0/Exercise04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simon/Development/technobrain/Exercise04/obj/Debug/net5.0/Exercise04.AssemblyInfoInputs.cache
+/Users/simon/Development/technobrain/Exercise04/obj/Debug/net5.0/Exercise04.AssemblyInfo.cs
+/Users/simon/Development/technobrain/Exercise04/obj/Debug/net5.0/Exercise04.csproj.CoreCompileInputs.cache
+/Users/simon/Development/technobrain/Exercise04/obj/Debug/net5.0/Exercise04.dll
+/Users/simon/Development/technobrain/Exercise04/obj/Debug/net5.0/ref/Exercise04.dll
+/Users/simon/Development/technobrain/Exercise04/obj/Debug/net5.0/Exercise04.pdb
+/Users/simon/Development/technobrain/Exercise04/obj/Debug/net5.0/Exercise04.genruntimeconfig.cache
